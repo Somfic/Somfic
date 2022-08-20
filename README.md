@@ -2,7 +2,7 @@
   <!-- Why hello there... I'm watching you. -->
 
 <div text-align="center">
-    <img src="https://i.imgur.com/h1q15Kt.gife" align="right" width="280" height="280">
+    <img src="https://i.imgur.com/h1q15Kt.gife" align="right" width="299" height="299">
     <h1 align="center"><code>HelloWorld();</code> ✌️</h1>
     <hr>
     <!-- Badges -->
