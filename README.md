@@ -3,7 +3,7 @@
 
 <div text-align="center">
     <img src="https://i.imgur.com/h1q15Kt.gife" align="right" width="280" height="280">
-    <h1 align="center">Hello world ✌️</h1>
+    <h1 align="center"><code>HelloWorld();</code> ✌️</h1>
     <hr>
     <!-- Badges -->
     <p align="center">
