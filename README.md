@@ -67,7 +67,7 @@
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somfic&custom_title=Most%20used%20languages&theme=github_dark&hide_border=true&langs_count=6" />
-  <img float="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Somfic&theme=github_dark&hide_border=true&custom_title=Coding%20activity%20%28Past%20two%20weeks%29&langs_count=10" />
+  <img float="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Somfic&theme=github_dark&hide_border=true&custom_title=Coding%20activity%20%28past%20two%20weeks%29&langs_count=10" />
 </div>
 
 
