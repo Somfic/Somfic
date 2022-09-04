@@ -58,7 +58,7 @@
     </p>
     <hr>
     <p align="center">
-    <i>I'm Somfic and I like to code.</i>
+    <i></i>
   </p>
 </div>
 <br>
