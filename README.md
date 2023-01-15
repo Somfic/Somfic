@@ -1,4 +1,3 @@
-
   <!-- Why hello there... I'm watching you. -->
 
 <div text-align="center">
@@ -68,12 +67,10 @@
 <br>
 <br>
 
-<div align="left">
-  <h2>My GitHub</h2>
+<h2>My GitHub</h2>
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
   <img align="left" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
   <img  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%20%28past%20two%20weeks%29&langs_count=10" />
-</div>
 
 <div align="right">
   
