@@ -68,14 +68,23 @@
 <br>
 <br>
 
-<div>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true" />
-    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=somfic&custom_title=Most%20used%20languages&theme=github_dark&hide_border=true&langs_count=6" />
-  <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=github_dark&hide_border=true&custom_title=Coding%20activity%20%28past%20two%20weeks%29&langs_count=10" />
+<div align="left">
+  <h2>My GitHub</h2>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
+  <img  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%20%28past%20two%20weeks%29&langs_count=10" />
 </div>
 
-
+<div align="right">
+  
 <h2>What I'm currently working on</h2>
 <a href="https://www.github.com/Somfic/EliteAPI">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=somfic&repo=eliteapi&theme=tokyonight&hide_border=true" />
-</a>
+ </a>
+ <a href="https://www.github.com/KaanMol/EventFlow-Server)">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
+ </a>
+ <a href="https://www.github.com/KaanMol/EventFlow-Client)">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Client&theme=tokyonight&hide_border=true" />
+ </a>
+</div>
