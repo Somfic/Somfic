@@ -70,21 +70,21 @@
 
 <div align="left">
   <h2>My GitHub</h2>
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%29&langs_count=10" />
+  <img width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
+  <img width="500px" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
+  <img width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%29&langs_count=10" />
 </div>
 
 <div align="right">
   
 <h2>What I'm currently working on</h2>
 <a href="https://www.github.com/Somfic/EliteAPI">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=somfic&repo=eliteapi&theme=tokyonight&hide_border=true" />
+  <img width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=somfic&repo=eliteapi&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://www.github.com/KaanMol/EventFlow-Server)">
-  <img  width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
+  <img  width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://www.github.com/KaanMol/EventFlow-Client)">
-  <img  width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Client&theme=tokyonight&hide_border=true" />
+  <img  width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Client&theme=tokyonight&hide_border=true" />
  </a>
 </div>
