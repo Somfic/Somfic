@@ -70,9 +70,9 @@
 
 <div align="left">
   <h2>My GitHub</h2>
-  <img width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
-  <img width="500px" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
-  <img width="500px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%29&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%29&langs_count=10" />
 </div>
 
 <div align="right">
