@@ -72,7 +72,7 @@
   <h2>My GitHub</h2>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Somfic&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Somfic&theme=tokyonight&hide_border=true&custom_title=Coding%20activity&langs_count=15" />
 </div>
 
 <div align="right">
