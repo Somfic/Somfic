@@ -80,7 +80,10 @@
   <a href="https://www.github.com/Somfic/EliteAPI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=somfic&repo=eliteapi&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://www.github.com/KaanMol/EventFlow-Server">
+  <a href="https://www.github.com/Somfic/EliteVA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=somfic&repo=eliteva&theme=tokyonight&hide_border=true" />
+  </a>
+    <a href="https://www.github.com/KaanMol/EventFlow-Server">
     <img  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://www.github.com/KaanMol/EventFlow-Client">
