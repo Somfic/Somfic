@@ -83,10 +83,4 @@
   <a href="https://www.github.com/Somfic/EliteVA">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=somfic&repo=eliteva&theme=tokyonight&hide_border=true" />
   </a>
-    <a href="https://www.github.com/KaanMol/EventFlow-Server">
-    <img  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://www.github.com/KaanMol/EventFlow-Client">
-    <img  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Client&theme=tokyonight&hide_border=true" />
-  </a>
 </div>
