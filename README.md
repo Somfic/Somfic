@@ -31,3 +31,6 @@
 <div align="left">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=somfic&show_icons=true&count_private=true&custom_title=My%20profile&theme=tokyonight&hide_border=true" />
 </div>
+
+> [!warning]
+> :)
