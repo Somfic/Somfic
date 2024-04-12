@@ -1,6 +1,7 @@
- <h1 align="center"><code>HelloWorld();</code> ✌️</h1>
+<h1 align="center"><code>HelloWorld();</code> ✌️</h1>
 <p align="center"><i>An idiot admires complexity, a genius admires simplicity.</i></p>
 
+## My coding activity
 <!--START_SECTION:waka-->
 
 ```txt
