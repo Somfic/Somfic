@@ -1,5 +1,4 @@
 name: Wakatime
-permissions: write
 
 on:
   # for manual workflow trigger
