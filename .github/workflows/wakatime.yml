@@ -6,6 +6,7 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+  push:
     
 
 jobs:
@@ -24,4 +25,4 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          svg_out_path: snake.svg?palette=github-dark
