@@ -1,4 +1,6 @@
 name: update readme
+permissions:
+  contents: write
 
 on:
   # for manual workflow trigger
@@ -13,8 +15,6 @@ jobs:
   update-readme:
     name: update readme
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: checkout repo
         uses: actions/checkout@v4    
