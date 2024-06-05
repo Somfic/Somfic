@@ -1,4 +1,4 @@
-name: Wakatime
+name: update readme
 
 on:
   # for manual workflow trigger
@@ -14,7 +14,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: update wakatime
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: '⣀⣄⣤⣦⣶⣷⣿'
@@ -22,7 +23,17 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
-      - uses: Platane/snk@master
+          
+      - name: generate contributions
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: snake.svg?palette=github-dark
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: update contributions
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Updated contribution image with new data"
