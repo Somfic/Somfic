@@ -11,9 +11,13 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: update readme
     runs-on: ubuntu-latest
+    permissions: write
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4    
+    
       - name: update wakatime
         uses: athul/waka-readme@master
         with:
