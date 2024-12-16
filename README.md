@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 683 hrs 55 mins
+Total Time: 683 hrs 43 mins
 
-Rust                164 hrs 27 mins █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Rust                164 hrs 23 mins █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
 C#                  120 hrs 51 mins ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
 Java                103 hrs 14 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
 Svelte              84 hrs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
